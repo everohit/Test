@@ -31,7 +31,8 @@ st.markdown(css, unsafe_allow_html=True)
 
 st.write('Hello world!')
 
-st.title('Streamlit :red[Tutorial]')
+#Title of the app
+st.title('Streamlit :orange[Tutorial]')
 st.header(':blue[Introduction to Databases]')
 st.subheader("🐥💻 Web Applications")
 st.text("My First web page in a few lines")
